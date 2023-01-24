@@ -1,0 +1,17 @@
+.wrapper {
+    width: 102.2rem;
+    margin: 10rem auto;
+}
+
+.header {
+    margin-bottom: 4.8rem;
+}
+
+.header-logo-image {
+    display: block;
+}
+
+.header-logo-image,
+.header-logo-image img {
+    height: 4rem;
+}
